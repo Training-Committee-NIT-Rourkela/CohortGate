@@ -87,15 +87,15 @@ Select your branch (feature/your-name)
 Add a clear description of the changes you made
 Mention the issue number your PR resolves (e.g., Closes #5)
 
-🛑 Contribution Guidelines
-✅ Follow the coding standards (use clean, readable code)
-✅ Write meaningful commit messages
-✅ Do changes in your branch feature/your-name
-✅ Check for existing issues before opening a new one
-✅ If assigned an issue, try to complete it as soon as possible.
+### 🛑 Contribution Guidelines:-<br>
+✅ Follow the coding standards (use clean, readable code) <br>
+✅ Write meaningful commit messages <br>
+✅ Do changes in your branch feature/your-name <br>
+✅ Check for existing issues before opening a new one <br>
+✅ If assigned an issue, try to complete it as soon as possible. <br>
 
-💬 Need Help?
-If you have any questions, feel free to:
-📌 Comment on an issue
-📌 Join the discussion in the repository
-📌 Tag maintainers in your PR
+### 💬 Need Help?<br>
+If you have any questions, feel free to:<br>
+📌 Comment on an issue<br>
+📌 Join the discussion in the repository<br>
+📌 Tag maintainers in your PR<br>
