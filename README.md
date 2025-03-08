@@ -27,7 +27,7 @@ We have several **open issues** where you can contribute:
 ✅ **File Upload System with Firebase Storage**  
 ✅ **Admin Dashboard for Managing Onboarding Data**  
 
-🔎 **Check the [GitHub Issues Tab](https://github.com/your-repo-link/issues) for all available tasks!**  
+🔎 **Check the [GitHub Issues Tab]([https://github.com/your-repo-link/issues](https://github.com/Training-Committee-NIT-Rourkela/CohortGate/issues)) for all available tasks!**  
 
 ---
 
