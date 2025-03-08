@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <></>;
+  return <>Training Committee - NIT, Rourkela</>;
 }
 
 export default App;
