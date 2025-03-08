@@ -1,10 +1,10 @@
 # 🚀 Cohort-Onboarding | Open Source Contribution Guide  
 
 ## 🎯 About the Project - CohortGate 
-Welcome to **CohortGate**, a React.js web application designed to **streamline the onboarding process for companies** participating in **CohortGate**.
+Welcome to **CohortGate**, a React.js web application designed to **streamline the onboarding process for companies** participating in **Cohort**.
 
 ### 🌟 What is CohortGate?  
-**CohortGate** is an annual **hackathon event** organized by the **Training Committee of NIT Rourkela**, aimed at connecting top companies with talented students. The event fosters innovation and provides a platform for companies to engage with potential hires while students showcase their skills through various challenges.
+**CohortGate** is an **hackathon event** organized by the **Training Committee of NIT Rourkela**, aimed at connecting top companies with talented students. The event fosters innovation and provides a platform for companies to engage with potential hires while students showcase their skills through various challenges and Problem Statements.
 
 This project aims to **simplify the registration process** by providing a **user-friendly onboarding form** for companies visiting the campus.
 
@@ -24,7 +24,6 @@ We have several **open issues** where you can contribute:
 ✅ **Onboarding Form with Firebase Integration**  
 ✅ **About Us Page (Training Committee & Cohort Details)**  
 ✅ **Footer with Social Media & Contact Links**  
-✅ **File Upload System with Firebase Storage**  
 ✅ **Admin Dashboard for Managing Onboarding Data**  
 
 🔎 **Check the [GitHub Issues Tab](https://github.com/Training-Committee-NIT-Rourkela/CohortGate/issues) for all available tasks!**  
@@ -88,6 +87,15 @@ Select your branch (feature/your-name)
 Add a clear description of the changes you made
 Mention the issue number your PR resolves (e.g., Closes #5)
 
+🛑 Contribution Guidelines
+✅ Follow the coding standards (use clean, readable code)
+✅ Write meaningful commit messages
+✅ Do changes in your branch feature/your-name
+✅ Check for existing issues before opening a new one
+✅ If assigned an issue, try to complete it as soon as possible.
 
-
-
+💬 Need Help?
+If you have any questions, feel free to:
+📌 Comment on an issue
+📌 Join the discussion in the repository
+📌 Tag maintainers in your PR
