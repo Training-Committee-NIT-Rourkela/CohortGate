@@ -1,7 +1,7 @@
 # 🚀 Cohort-Onboarding | Open Source Contribution Guide  
 
-## 🎯 About the Project - Cohort-Onboarding  
-Welcome to **Cohort-Onboarding**, a React.js web application designed to **streamline the onboarding process for companies** participating in **CohortGate**.
+## 🎯 About the Project - CohortGate 
+Welcome to **CohortGate**, a React.js web application designed to **streamline the onboarding process for companies** participating in **CohortGate**.
 
 ### 🌟 What is CohortGate?  
 **CohortGate** is an annual **hackathon event** organized by the **Training Committee of NIT Rourkela**, aimed at connecting top companies with talented students. The event fosters innovation and provides a platform for companies to engage with potential hires while students showcase their skills through various challenges.
