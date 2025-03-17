@@ -1,7 +1,11 @@
 import "./App.css";
+import NavBar from "./components/NavBar/NavBar";
 
 function App() {
-  return <>Training Committee - NIT, Rourkela</>;
+  return <>
+  <NavBar />
+  Training Committee - NIT, Rourkela
+  </>;
 }
 
 export default App;
