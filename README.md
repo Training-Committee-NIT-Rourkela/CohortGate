@@ -53,7 +53,7 @@ cd CohortGate
 Before making changes, create a new branch with a relevant name:
 
 ```bash
-git checkout -b feature/your-name
+git checkout -b feature/your-rollno
 ```
 
 ### 5️⃣ Install Dependencies
@@ -77,7 +77,7 @@ git commit -m "Your commit message"
 ### 8️⃣ Push Changes to Your Forked Repository
 
 ```bash
-git push origin feature/your-feature-name
+git push origin feature/your-rollno
 ```
 
 ### 9️⃣ Create a Pull Request (PR)
