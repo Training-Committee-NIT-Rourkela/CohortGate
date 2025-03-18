@@ -4,7 +4,7 @@ import NavBar from "./components/NavBar/NavBar";
 function App() {
   return <>
   <NavBar />
-  Training Committee - NIT, Rourkela
+  <h1>Training Committee - NIT, Rourkela</h1>
   </>;
 }
 
