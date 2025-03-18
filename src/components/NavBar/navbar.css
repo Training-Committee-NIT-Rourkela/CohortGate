@@ -1,0 +1,25 @@
+
+:root {
+    --bg-color: #ffffff;
+    --text-color: #2d3748;
+}
+
+.dark {
+    --bg-color: #1a202c;
+    --text-color: #f0f4f8;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+  
+.no-select {
+    user-select: none;
+  }
+
+.no-cursor {
+    cursor: default;
+}
+  
