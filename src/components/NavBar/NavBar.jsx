@@ -83,8 +83,6 @@ const NavBar = () => {
             ))}
           </ul>
         )}
-
-        {/* Dark Mode Toggle */}
         <button
           className="ml-4 text-gray-700 dark:text-white"
           onClick={() => setDarkMode(!darkMode)}
