@@ -34,7 +34,7 @@ const NavBar = () => {
         <ul className="hidden md:flex space-x-6 text-gray-700 dark:text-gray-200">
           {[
             { name: "Home", path: "/" },
-            { name: "About Us", path: "/about" },
+            { name: "About Us", path: "/about-us" },
             { name: "Form", path: "/form" },
             { name: "Contact", path: "/contact" },
           ].map((item) => (
