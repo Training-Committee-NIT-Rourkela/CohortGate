@@ -5,12 +5,16 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Form from "./components/Form/Form";
 import Contact from "./components/Contact/Contact";
 import "./App.css";
+import Footer from "./components/Footer/Footer";
 
 function RootLayout() {
   return (
     <>
       <NavBar />
-      <Outlet />
+      <main style={{ minHeight: "60vh", padding: "20px" }}>
+        <Outlet />
+      </main>
+      <Footer />
     </>
   );
 }
