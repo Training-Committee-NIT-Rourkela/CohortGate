@@ -10,7 +10,7 @@ function Footer() {
        <div>
         <h3 className="text-xl font-bold mb-4">About Us</h3>
         <p className="text-gray-400 mb-4">
-          We are NITians working upon <br />Open-Source project.
+          We are NITians working upon <br />Open-Source project and contributing.
         </p>
         <div className="flex space-x-4">
           <a href="https://www.facebook.com/nitrkl1/" target="_blank" className="text-gray-400 hover:text-white transition">
